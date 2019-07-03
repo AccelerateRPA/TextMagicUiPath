@@ -1,0 +1,10 @@
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\bin\Debug\TextMagic.dll
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\bin\Debug\TextMagic.pdb
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\bin\Debug\RestSharp.dll
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\bin\Debug\TextmagicRest.dll
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\bin\Debug\RestSharp.xml
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\obj\Debug\TextMagic.csproj.CoreCompileInputs.cache
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\obj\Debug\TextMagic.csproj.CopyComplete
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\obj\Debug\TextMagic.dll
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\obj\Debug\TextMagic.pdb
+C:\Users\Elliott\source\repos\TextMagic\TextMagic\obj\Debug\TextMagic.csprojAssemblyReference.cache
